@@ -1,53 +1,43 @@
 #ASSIGNING_ALL_SCHOOL_CLASSES_100_POINTS
 
-points= 100
+points = 100
+interestPoints = 50
 
 #ALL GRADE 11 COURSES
 
-Pre_Calculus_11 = points
-Foundations_of_Mathematics_12 = points
-Twentyth_Century_World_History_12 = points
-BC_First_Peoples_12 = points
-Comparative_Cultures_12 = points
-Human_Geography_12 = points
-Law_Studies_12 = points
-Physical_Geography_12 = points
-Political_Studies_12 = points
-Social_Justice_12 = points
-Chemistry_11_or_AP_Chemistry_11 = points
-Life_Sciences_11 = points
-AP_Biology_11 = points
-Geology_12 = points
-Physics_11 = points
-AP_Physics_11 = points
+preCalc11 = points # Pre Calculus 11
+fndMath12 = points # Foundations of Math 12
+_20CentHist12 = points # 20th Century World History 12
+bcFirstPeoples12 = points # BC First Peoples 12
+compCulture12 = points # Comparative Culture 12
+humanGeo12 = points # Human Geography 12
+law12 = points # Law Studies 12
+physGeo12 = points # Physical Geography 12
+poliStudies12 = points # Political Studies 12
+sj12 = points # Social Justice 12
+chem11 = points # Chemistry 11
+apChem11 = points # AP Chemistry 11
+lifeSci11 = points # Life Sciences 11
+apBio11 = points # AP Biology 11
+geo12 = points # Geology 12
+phys11 = points # Physics 11
+apPhys11 = points # AP Physics 11
 
 #ALL GRADE 11 ELECTIVES
 
-Twentyth_Century_World_History_12 = points
-Beginner's_Mandarin_Chinese = points
-Beginner's_Spanish = points
-BC_First_Peoples_12 = points
-Chemistry_11_or_AP_Chemistry_11 = points
-Javascript = points
-Python = points
-Comparative_Cultures_12 = points
-AP_Computer_Science_Principles_12 = points
-Entrepreneurship_12 = points
-AP_Environmental_Science_12 = points
-Financial_Accounting_12 = points
-French_11 = points
-Geology_12 = points
-Human_Geography_12 = points
-Law_Studies_12 = points
-Life_Sciences_11 = points
-AP_Macroeconomics_12 = points
-Mandarin_Chinese_11 = points
-AP_Microeconomics_12 = points
-AP_Music_Theory_12 = points
-Physical_Geography_12 = points
-Physics_11_or_AP_Physics_11 = points
-Political_Studies_12 = points
-AP_Seminar_11 = points
-Social_Justice_12 = points
-Spanish_11 = points
-AP_Studio_Art_12 = points
+beginChinese = points # Beginners Mandarin Chinese
+beginSpanish = points # Beginners Spanish
+js = points # Javascript
+py = points # Python
+apCSP12 = points # AP Computer Science Principles 12
+ent12 = points # Entrepreneurship 12
+apEnvSci12 = points # AP Environmental Science 12
+finAcc12 = points # Financial Accounting 12
+fr11 = points # French 11
+apMacEc12 = points # AP Macroeconomics 12
+ch11 = points # Mandarin Chinese 11
+apMicEc12 = points # AP Microeconomics 12
+apMusTheory12 = points # AP Music Theory 12
+apSem11 = points # AP Seminar 11
+span11 = points # Spanish 11
+apStArt12 = points # AP Studio Art 12
